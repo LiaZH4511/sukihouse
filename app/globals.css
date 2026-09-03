@@ -1,0 +1,73 @@
+:root {
+  color-scheme: dark;
+  --paper: #020402;
+  --ink: #f4f7ef;
+  --muted: #8f9985;
+  --line: rgba(203, 237, 72, 0.32);
+  --soft-line: rgba(244, 247, 239, 0.15);
+  --wash: #10170e;
+  --accent: #c8f12a;
+  --deep-green: #17330d;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100%;
+  background: var(--paper);
+}
+
+body {
+  min-height: 100%;
+  margin: 0;
+  color: var(--ink);
+  background: var(--paper);
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+body,
+button,
+a {
+  font: inherit;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+button {
+  border: 0;
+  color: inherit;
+  background: transparent;
+  cursor: pointer;
+}
+
+::selection {
+  color: var(--paper);
+  background: var(--accent);
+}
+
+.siteShell {
+  min-height: 100vh;
+}
+
+.siteContent {
+  min-width: 0;
+}
+
+@media (min-width: 640px) {
+  .siteShell {
+    display: grid;
+    grid-template-columns: clamp(170px, 17vw, 232px) minmax(0, 1fr);
+  }
+}

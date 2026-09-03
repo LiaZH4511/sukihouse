@@ -1,0 +1,61 @@
+.page {
+  display: grid;
+  grid-template-columns: minmax(340px, 0.48fr) minmax(320px, 0.52fr);
+  gap: clamp(44px, 5vw, 68px);
+  align-items: start;
+  width: min(930px, calc(100% - 28px));
+  margin: 0 0 0 clamp(-64px, -5vw, -44px);
+  padding: 156px 0 120px;
+}
+
+.portrait {
+  position: relative;
+  left: 2cm;
+  top: 1cm;
+  width: 100%;
+  justify-self: end;
+  margin-top: clamp(36px, 5.8vh, 68px);
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  background: var(--wash);
+}
+
+.copy {
+  display: grid;
+  gap: 20px;
+  padding: clamp(28px, 5vh, 58px) 0 0 calc(clamp(36px, 4vw, 58px) + 1cm);
+}
+
+.copy h1 {
+  margin: 0 0 8px;
+  font-size: 1rem;
+  font-weight: 300;
+  letter-spacing: 0;
+}
+
+.copy p {
+  max-width: 660px;
+  margin: 0;
+  color: var(--ink);
+  font-size: clamp(0.96rem, 1.4vw, 1.06rem);
+  font-weight: 300;
+  line-height: 1.78;
+}
+
+@media (max-width: 759px) {
+  .page {
+    grid-template-columns: 1fr;
+    gap: 44px;
+    margin: 0 auto;
+    padding-top: 88px;
+    width: min(100%, calc(100% - 44px));
+  }
+
+  .portrait {
+    left: 0;
+    top: 0;
+    width: min(76vw, 390px);
+    justify-self: start;
+    margin-top: 0;
+  }
+}
