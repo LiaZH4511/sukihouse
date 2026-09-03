@@ -5,6 +5,7 @@ import type { OverviewImage } from "@/data/portfolioData";
 import styles from "./OverviewGallery.module.css";
 
 const SESSION_KEY = "overview-image";
+const SESSION_FRAMES_KEY = "overview-image-frames";
 const INTRO_FRAME_COUNT = 10;
 const INTRO_FRAME_DELAYS = [34, 38, 43, 50, 60, 74, 92, 114, 142, 176, 218, 268, 326, 392, 466, 540];
 
@@ -27,6 +28,27 @@ function readSessionImage(images: OverviewImage[]) {
   return selected;
 }
 
+function shuffleImages(images: OverviewImage[]) {
+  return [...images].sort(() => Math.random() - 0.5);
+}
+
+function readSessionFrames(images: OverviewImage[]) {
+  const byId = new Map(images.map((image) => [image.id, image]));
+  const stored = window.sessionStorage.getItem(SESSION_FRAMES_KEY);
+
+  if (stored) {
+    const frames = stored
+      .split(",")
+      .map((id) => byId.get(id))
+      .filter((image): image is OverviewImage => Boolean(image));
+    if (frames.length) return frames;
+  }
+
+  const frames = shuffleImages(images).slice(0, Math.min(INTRO_FRAME_COUNT, images.length));
+  window.sessionStorage.setItem(SESSION_FRAMES_KEY, frames.map((image) => image.id).join(","));
+  return frames;
+}
+
 export function OverviewGallery({ images }: OverviewGalleryProps) {
   const [selected, setSelected] = useState<OverviewImage | null>(null);
   const [displayed, setDisplayed] = useState<OverviewImage | null>(null);
@@ -35,17 +57,14 @@ export function OverviewGallery({ images }: OverviewGalleryProps) {
   const placeholder = useMemo(() => images[0], [images]);
 
   useEffect(() => {
-    const finalImage = readSessionImage(images);
+    const frames = readSessionFrames(images);
+    const finalImage = frames[Math.floor(Math.random() * frames.length)] ?? readSessionImage(images);
     setSelected(finalImage);
     setDisplayed(finalImage);
     setIsFlipped(false);
 
     if (!finalImage || window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
 
-    const frames = Array.from(
-      { length: Math.min(INTRO_FRAME_COUNT, images.length) },
-      (_, index) => images[index],
-    );
     let frameIndex = 0;
     let timer: number | undefined;
     setIsIntroRunning(true);
