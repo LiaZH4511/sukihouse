@@ -45,14 +45,14 @@
 
 .project img {
   width: 100%;
-  aspect-ratio: 4 / 5;
-  object-fit: cover;
+  height: auto;
   background: var(--wash);
   filter: saturate(0.82) contrast(0.9) brightness(0.78);
+  transition: filter 180ms ease;
 }
 
-.project:nth-child(3) img {
-  aspect-ratio: 16 / 10;
+.project:hover img {
+  filter: none;
 }
 
 .project span {

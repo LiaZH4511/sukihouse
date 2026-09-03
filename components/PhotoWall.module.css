@@ -60,31 +60,23 @@
   background: rgba(180, 220, 75, 0.12);
   mix-blend-mode: screen;
   pointer-events: none;
+  transition: opacity 180ms ease;
 }
 
 .photoFrame img {
   width: 100%;
-  max-height: 78vh;
-  object-fit: cover;
+  height: auto;
   background: var(--wash);
   filter: saturate(0.78) contrast(0.92) brightness(0.82);
+  transition: filter 180ms ease;
 }
 
-.figure1 img,
-.figure4 img,
-.figure8 img {
-  aspect-ratio: 16 / 10;
+.photoFrame:hover::after {
+  opacity: 0;
 }
 
-.figure2 img,
-.figure3 img,
-.figure6 img,
-.figure7 img {
-  aspect-ratio: 4 / 5;
-}
-
-.figure5 img {
-  aspect-ratio: 1 / 1;
+.photoFrame:hover img {
+  filter: none;
 }
 
 .meta {
