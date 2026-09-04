@@ -62,8 +62,8 @@ export const aboutContent = {
     alt: "The Flowing Green cover photograph",
   },
   paragraphs: [
-    "The Flowing Green is a travel zine built from 55 selected photographs: water, gardens, campus ceremony, public memory, temple paths, summer streets, and small private signs.",
-    "The sequence keeps people at a distance and lets place carry the emotional weight: rail lines, plaques, humid trees, museum shadows, paper wishes, and small objects handled like evidence.",
+    "The Flowing Green is a travel zine built from 53 selected photographs across three movements: The Rise, The Bloom, and The Summer.",
+    "The sequence moves from island weather and early spring to graduation light, public memory, temple paths, summer streets, and small objects handled like evidence.",
     "This online version is prepared for a first public pass, with room for later color grading, retouching, and final caption work.",
   ],
 };
@@ -71,10 +71,10 @@ export const aboutContent = {
 export const contactInfo = {
   name: "The Flowing Green",
   email: "studio@example.com",
-  location: "Kansai / Boston / island weather",
+  location: "Hawaii / Seoul / Boston / Japan",
   availability: "A working web zine prepared for continued post-production.",
   image: {
-    src: "/portfolio/temple-gardens-street-heat/12-dscf2115.jpg",
-    alt: "Engraved stone and summer light",
+    src: "/portfolio/the-summer/10-dscf2111.jpg",
+    alt: "Summer light and small public notes",
   },
 };

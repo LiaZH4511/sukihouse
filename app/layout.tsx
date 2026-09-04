@@ -4,7 +4,7 @@ import { Header } from "@/components/Header";
 
 export const metadata: Metadata = {
   title: "The Flowing Green",
-  description: "A black-ground travel zine of water, gardens, public memory, and Kyoto street heat.",
+  description: "A black-ground travel zine in three movements: The Rise, The Bloom, and The Summer.",
 };
 
 export default function RootLayout({

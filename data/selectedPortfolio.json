@@ -1,1192 +1,823 @@
 [
   {
-    "slug": "before-the-leaving",
-    "title": "Before the Leaving",
+    "slug": "the-rise",
+    "title": "The Rise",
     "period": "The Flowing Green / 01",
-    "description": "Hawaii in March and the quieter Boston rooms of early April, held together by water, weather, waiting, and small pauses before departure.",
-    "cover": "/portfolio/before-the-leaving/01-dscf0084.jpg",
+    "description": "An island in March, early spring in April, before leaving had a name.",
+    "cover": "/portfolio/the-rise/01-dscf0223.jpg",
     "photographs": [
       {
-        "id": "before-the-leaving-01",
-        "src": "/portfolio/before-the-leaving/01-dscf0084.jpg",
-        "alt": "Before the Leaving photograph 01",
-        "date": "Early April",
-        "location": "Boston",
-        "orientation": "landscape",
-        "note": "DSCF0084.RAF",
-        "tags": [
-          "before-the-leaving",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0084.RAF"
-      },
-      {
-        "id": "before-the-leaving-02",
-        "src": "/portfolio/before-the-leaving/02-dscf0093.jpg",
-        "alt": "Before the Leaving photograph 02",
-        "date": "Early April",
-        "location": "Boston",
-        "orientation": "landscape",
-        "note": "DSCF0093.RAF",
-        "tags": [
-          "before-the-leaving",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0093.RAF"
-      },
-      {
-        "id": "before-the-leaving-03",
-        "src": "/portfolio/before-the-leaving/03-dscf0223.jpg",
-        "alt": "Before the Leaving photograph 03",
+        "id": "the-rise-01",
+        "src": "/portfolio/the-rise/01-dscf0223.jpg",
+        "alt": "The Rise photograph 01",
         "date": "March",
         "location": "Hawaii",
         "orientation": "landscape",
         "note": "DSCF0223.RAF",
         "tags": [
-          "before-the-leaving",
+          "the-rise",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0223.RAF"
       },
       {
-        "id": "before-the-leaving-04",
-        "src": "/portfolio/before-the-leaving/04-dscf0238.jpg",
-        "alt": "Before the Leaving photograph 04",
-        "date": "March",
-        "location": "Hawaii",
-        "orientation": "portrait",
-        "note": "DSCF0238.RAF",
-        "tags": [
-          "before-the-leaving",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0238.RAF"
-      },
-      {
-        "id": "before-the-leaving-05",
-        "src": "/portfolio/before-the-leaving/05-dscf0249.jpg",
-        "alt": "Before the Leaving photograph 05",
+        "id": "the-rise-02",
+        "src": "/portfolio/the-rise/02-dscf0249.jpg",
+        "alt": "The Rise photograph 02",
         "date": "March",
         "location": "Hawaii",
         "orientation": "landscape",
         "note": "DSCF0249.RAF",
         "tags": [
-          "before-the-leaving",
+          "the-rise",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0249.RAF"
       },
       {
-        "id": "before-the-leaving-06",
-        "src": "/portfolio/before-the-leaving/06-dscf0253.jpg",
-        "alt": "Before the Leaving photograph 06",
+        "id": "the-rise-03",
+        "src": "/portfolio/the-rise/03-dscf0253.jpg",
+        "alt": "The Rise photograph 03",
         "date": "March",
         "location": "Hawaii",
         "orientation": "landscape",
         "note": "DSCF0253.RAF",
         "tags": [
-          "before-the-leaving",
+          "the-rise",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0253.RAF"
       },
       {
-        "id": "before-the-leaving-07",
-        "src": "/portfolio/before-the-leaving/07-dscf0265.jpg",
-        "alt": "Before the Leaving photograph 07",
+        "id": "the-rise-04",
+        "src": "/portfolio/the-rise/04-dscf0265.jpg",
+        "alt": "The Rise photograph 04",
         "date": "March",
         "location": "Hawaii",
         "orientation": "landscape",
         "note": "DSCF0265.RAF",
         "tags": [
-          "before-the-leaving",
+          "the-rise",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0265.RAF"
       },
       {
-        "id": "before-the-leaving-08",
-        "src": "/portfolio/before-the-leaving/08-dscf0272.jpg",
-        "alt": "Before the Leaving photograph 08",
+        "id": "the-rise-05",
+        "src": "/portfolio/the-rise/05-dscf0267.jpg",
+        "alt": "The Rise photograph 05",
+        "date": "March",
+        "location": "Hawaii",
+        "orientation": "landscape",
+        "note": "DSCF0267.RAF",
+        "tags": [
+          "the-rise",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0267.RAF"
+      },
+      {
+        "id": "the-rise-06",
+        "src": "/portfolio/the-rise/06-dscf0272.jpg",
+        "alt": "The Rise photograph 06",
         "date": "March",
         "location": "Hawaii",
         "orientation": "portrait",
         "note": "DSCF0272.jpg",
         "tags": [
-          "before-the-leaving",
+          "the-rise",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0272.jpg"
       },
       {
-        "id": "before-the-leaving-09",
-        "src": "/portfolio/before-the-leaving/09-dscf0322.jpg",
-        "alt": "Before the Leaving photograph 09",
+        "id": "the-rise-07",
+        "src": "/portfolio/the-rise/07-dscf0364.jpg",
+        "alt": "The Rise photograph 07",
         "date": "March",
         "location": "Hawaii",
         "orientation": "landscape",
-        "note": "DSCF0322.RAF",
+        "note": "DSCF0364.RAF",
         "tags": [
-          "before-the-leaving",
+          "the-rise",
           "suki-house",
           "the-flowing-green"
         ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0322.RAF"
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0364.RAF"
       },
       {
-        "id": "before-the-leaving-10",
-        "src": "/portfolio/before-the-leaving/10-dscf0345.jpg",
-        "alt": "Before the Leaving photograph 10",
-        "date": "March",
-        "location": "Hawaii",
-        "orientation": "portrait",
-        "note": "DSCF0345.RAF",
-        "tags": [
-          "before-the-leaving",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0345.RAF"
-      },
-      {
-        "id": "before-the-leaving-11",
-        "src": "/portfolio/before-the-leaving/11-dscf0408.jpg",
-        "alt": "Before the Leaving photograph 11",
+        "id": "the-rise-08",
+        "src": "/portfolio/the-rise/08-dscf0445.jpg",
+        "alt": "The Rise photograph 08",
         "date": "March",
         "location": "Hawaii",
         "orientation": "landscape",
-        "note": "DSCF0408.RAF",
+        "note": "DSCF0445.RAF",
         "tags": [
-          "before-the-leaving",
+          "the-rise",
           "suki-house",
           "the-flowing-green"
         ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0408.RAF"
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0445.RAF"
       },
       {
-        "id": "before-the-leaving-12",
-        "src": "/portfolio/before-the-leaving/12-dscf0450.jpg",
-        "alt": "Before the Leaving photograph 12",
+        "id": "the-rise-09",
+        "src": "/portfolio/the-rise/09-dscf0450.jpg",
+        "alt": "The Rise photograph 09",
         "date": "March",
         "location": "Hawaii",
         "orientation": "landscape",
         "note": "DSCF0450.RAF",
         "tags": [
-          "before-the-leaving",
+          "the-rise",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0450.RAF"
       },
       {
-        "id": "before-the-leaving-13",
-        "src": "/portfolio/before-the-leaving/13-dscf0505.jpg",
-        "alt": "Before the Leaving photograph 13",
-        "date": "March",
-        "location": "Hawaii",
-        "orientation": "landscape",
-        "note": "DSCF0505.RAF",
-        "tags": [
-          "before-the-leaving",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0505.RAF"
-      },
-      {
-        "id": "before-the-leaving-14",
-        "src": "/portfolio/before-the-leaving/14-dscf0581.jpg",
-        "alt": "Before the Leaving photograph 14",
-        "date": "March",
-        "location": "Hawaii",
-        "orientation": "landscape",
-        "note": "DSCF0581.RAF",
-        "tags": [
-          "before-the-leaving",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0581.RAF"
-      },
-      {
-        "id": "before-the-leaving-15",
-        "src": "/portfolio/before-the-leaving/15-dscf0627.jpg",
-        "alt": "Before the Leaving photograph 15",
+        "id": "the-rise-10",
+        "src": "/portfolio/the-rise/10-dscf0627.jpg",
+        "alt": "The Rise photograph 10",
         "date": "March",
         "location": "Hawaii",
         "orientation": "landscape",
         "note": "DSCF0627.RAF",
         "tags": [
-          "before-the-leaving",
+          "the-rise",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0627.RAF"
       },
       {
-        "id": "before-the-leaving-16",
-        "src": "/portfolio/before-the-leaving/16-dscf0774.jpg",
-        "alt": "Before the Leaving photograph 16",
+        "id": "the-rise-11",
+        "src": "/portfolio/the-rise/11-dscf0651.jpg",
+        "alt": "The Rise photograph 11",
         "date": "March",
         "location": "Hawaii",
-        "orientation": "portrait",
+        "orientation": "landscape",
+        "note": "DSCF0651.RAF",
+        "tags": [
+          "the-rise",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0651.RAF"
+      },
+      {
+        "id": "the-rise-12",
+        "src": "/portfolio/the-rise/12-dscf0678.jpg",
+        "alt": "The Rise photograph 12",
+        "date": "March",
+        "location": "Hawaii",
+        "orientation": "landscape",
+        "note": "DSCF0678.RAF",
+        "tags": [
+          "the-rise",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0678.RAF"
+      },
+      {
+        "id": "the-rise-13",
+        "src": "/portfolio/the-rise/13-dscf0774.jpg",
+        "alt": "The Rise photograph 13",
+        "date": "March",
+        "location": "Hawaii",
+        "orientation": "landscape",
         "note": "DSCF0774.RAF",
         "tags": [
-          "before-the-leaving",
+          "the-rise",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0774.RAF"
       },
       {
-        "id": "before-the-leaving-17",
-        "src": "/portfolio/before-the-leaving/17-dscf0812.jpg",
-        "alt": "Before the Leaving photograph 17",
+        "id": "the-rise-14",
+        "src": "/portfolio/the-rise/14-dscf0812.jpg",
+        "alt": "The Rise photograph 14",
         "date": "March",
         "location": "Hawaii",
         "orientation": "landscape",
         "note": "DSCF0812.RAF",
         "tags": [
-          "before-the-leaving",
+          "the-rise",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0812.RAF"
       },
       {
-        "id": "before-the-leaving-18",
-        "src": "/portfolio/before-the-leaving/18-dscf0913.jpg",
-        "alt": "Before the Leaving photograph 18",
+        "id": "the-rise-15",
+        "src": "/portfolio/the-rise/15-dscf0894.jpg",
+        "alt": "The Rise photograph 15",
+        "date": "March",
+        "location": "Hawaii",
+        "orientation": "landscape",
+        "note": "DSCF0894.RAF",
+        "tags": [
+          "the-rise",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0894.RAF"
+      },
+      {
+        "id": "the-rise-16",
+        "src": "/portfolio/the-rise/16-dscf0913.jpg",
+        "alt": "The Rise photograph 16",
         "date": "March",
         "location": "Hawaii",
         "orientation": "landscape",
         "note": "DSCF0913.RAF",
         "tags": [
-          "before-the-leaving",
+          "the-rise",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0913.RAF"
-      }
-    ]
-  },
-  {
-    "slug": "elsewhere-in-april",
-    "title": "Elsewhere, in April",
-    "period": "The Flowing Green / 02",
-    "description": "Seoul in April, seen through gardens, windows, storefronts, street signs, and the strange softness of being briefly elsewhere.",
-    "cover": "/portfolio/elsewhere-in-april/01-dscf0014-2.jpg",
-    "photographs": [
+      },
       {
-        "id": "elsewhere-in-april-01",
-        "src": "/portfolio/elsewhere-in-april/01-dscf0014-2.jpg",
-        "alt": "Elsewhere, in April photograph 01",
-        "date": "April",
-        "location": "Seoul",
+        "id": "the-rise-17",
+        "src": "/portfolio/the-rise/17-dscf0975.jpg",
+        "alt": "The Rise photograph 17",
+        "date": "March",
+        "location": "Hawaii",
         "orientation": "landscape",
-        "note": "DSCF0014 2.jpeg",
+        "note": "DSCF0975.RAF",
         "tags": [
-          "elsewhere-in-april",
+          "the-rise",
           "suki-house",
           "the-flowing-green"
         ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0014 2.jpeg"
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0975.RAF"
       },
       {
-        "id": "elsewhere-in-april-02",
-        "src": "/portfolio/elsewhere-in-april/02-dscf0045-2.jpg",
-        "alt": "Elsewhere, in April photograph 02",
-        "date": "April",
-        "location": "Seoul",
-        "orientation": "portrait",
-        "note": "DSCF0045 2.jpg",
-        "tags": [
-          "elsewhere-in-april",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0045 2.jpg"
-      },
-      {
-        "id": "elsewhere-in-april-03",
-        "src": "/portfolio/elsewhere-in-april/03-dscf0056.jpg",
-        "alt": "Elsewhere, in April photograph 03",
-        "date": "April",
-        "location": "Seoul",
-        "orientation": "landscape",
-        "note": "DSCF0056.JPG",
-        "tags": [
-          "elsewhere-in-april",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0056.JPG"
-      },
-      {
-        "id": "elsewhere-in-april-04",
-        "src": "/portfolio/elsewhere-in-april/04-dscf0980.jpg",
-        "alt": "Elsewhere, in April photograph 04",
-        "date": "April",
-        "location": "Seoul",
+        "id": "the-rise-18",
+        "src": "/portfolio/the-rise/18-dscf0980.jpg",
+        "alt": "The Rise photograph 18",
+        "date": "March",
+        "location": "Hawaii",
         "orientation": "landscape",
         "note": "DSCF0980.RAF",
         "tags": [
-          "elsewhere-in-april",
+          "the-rise",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0980.RAF"
       },
       {
-        "id": "elsewhere-in-april-05",
-        "src": "/portfolio/elsewhere-in-april/05-dscf1184.jpg",
-        "alt": "Elsewhere, in April photograph 05",
+        "id": "the-rise-19",
+        "src": "/portfolio/the-rise/19-dscf1020.jpg",
+        "alt": "The Rise photograph 19",
+        "date": "Early April",
+        "location": "Boston",
+        "orientation": "landscape",
+        "note": "DSCF1020.RAF",
+        "tags": [
+          "the-rise",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1020.RAF"
+      },
+      {
+        "id": "the-rise-20",
+        "src": "/portfolio/the-rise/20-dscf1036.jpg",
+        "alt": "The Rise photograph 20",
+        "date": "Early April",
+        "location": "Boston",
+        "orientation": "landscape",
+        "note": "DSCF1036.RAF",
+        "tags": [
+          "the-rise",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1036.RAF"
+      },
+      {
+        "id": "the-rise-21",
+        "src": "/portfolio/the-rise/21-dscf1041.jpg",
+        "alt": "The Rise photograph 21",
+        "date": "Early April",
+        "location": "Boston",
+        "orientation": "landscape",
+        "note": "DSCF1041.RAF",
+        "tags": [
+          "the-rise",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1041.RAF"
+      },
+      {
+        "id": "the-rise-22",
+        "src": "/portfolio/the-rise/22-dscf1054.jpg",
+        "alt": "The Rise photograph 22",
+        "date": "Early April",
+        "location": "Boston",
+        "orientation": "landscape",
+        "note": "DSCF1054.RAF",
+        "tags": [
+          "the-rise",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1054.RAF"
+      },
+      {
+        "id": "the-rise-23",
+        "src": "/portfolio/the-rise/23-dscf1069.jpg",
+        "alt": "The Rise photograph 23",
+        "date": "Early April",
+        "location": "Boston",
+        "orientation": "landscape",
+        "note": "DSCF1069.RAF",
+        "tags": [
+          "the-rise",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1069.RAF"
+      }
+    ]
+  },
+  {
+    "slug": "the-bloom",
+    "title": "The Bloom",
+    "period": "The Flowing Green / 02",
+    "description": "Graduation season, spring light, and the soft noise of almost goodbye.",
+    "cover": "/portfolio/the-bloom/01-dscf1184.jpg",
+    "photographs": [
+      {
+        "id": "the-bloom-01",
+        "src": "/portfolio/the-bloom/01-dscf1184.jpg",
+        "alt": "The Bloom photograph 01",
         "date": "April",
         "location": "Seoul",
         "orientation": "landscape",
         "note": "DSCF1184.RAF",
         "tags": [
-          "elsewhere-in-april",
+          "the-bloom",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1184.RAF"
       },
       {
-        "id": "elsewhere-in-april-06",
-        "src": "/portfolio/elsewhere-in-april/06-dscf1192.jpg",
-        "alt": "Elsewhere, in April photograph 06",
+        "id": "the-bloom-02",
+        "src": "/portfolio/the-bloom/02-dscf1231-2.jpg",
+        "alt": "The Bloom photograph 02",
         "date": "April",
         "location": "Seoul",
-        "orientation": "landscape",
-        "note": "DSCF1192.RAF",
-        "tags": [
-          "elsewhere-in-april",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1192.RAF"
-      },
-      {
-        "id": "elsewhere-in-april-07",
-        "src": "/portfolio/elsewhere-in-april/07-dscf1252.jpg",
-        "alt": "Elsewhere, in April photograph 07",
-        "date": "April",
-        "location": "Seoul",
-        "orientation": "landscape",
-        "note": "DSCF1252.RAF",
-        "tags": [
-          "elsewhere-in-april",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1252.RAF"
-      },
-      {
-        "id": "elsewhere-in-april-08",
-        "src": "/portfolio/elsewhere-in-april/08-dscf1293.jpg",
-        "alt": "Elsewhere, in April photograph 08",
-        "date": "April",
-        "location": "Seoul",
-        "orientation": "portrait",
-        "note": "DSCF1293.RAF",
-        "tags": [
-          "elsewhere-in-april",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1293.RAF"
-      },
-      {
-        "id": "elsewhere-in-april-09",
-        "src": "/portfolio/elsewhere-in-april/09-dscf1306.jpg",
-        "alt": "Elsewhere, in April photograph 09",
-        "date": "April",
-        "location": "Seoul",
-        "orientation": "landscape",
-        "note": "DSCF1306.RAF",
-        "tags": [
-          "elsewhere-in-april",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1306.RAF"
-      },
-      {
-        "id": "elsewhere-in-april-10",
-        "src": "/portfolio/elsewhere-in-april/10-dscf1315.jpg",
-        "alt": "Elsewhere, in April photograph 10",
-        "date": "April",
-        "location": "Seoul",
-        "orientation": "portrait",
-        "note": "DSCF1315.RAF",
-        "tags": [
-          "elsewhere-in-april",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1315.RAF"
-      }
-    ]
-  },
-  {
-    "slug": "last-time-we-were-here",
-    "title": "The Last Time We Were Here",
-    "period": "The Flowing Green / 03",
-    "description": "Graduation season, Boston farewell moments, and other U.S. photographs from May, where public rituals start to feel privately final.",
-    "cover": "/portfolio/last-time-we-were-here/01-dscf1231-2.jpg",
-    "photographs": [
-      {
-        "id": "last-time-we-were-here-01",
-        "src": "/portfolio/last-time-we-were-here/01-dscf1231-2.jpg",
-        "alt": "The Last Time We Were Here photograph 01",
-        "date": "May",
-        "location": "Boston",
         "orientation": "portrait",
         "note": "DSCF1231 2.JPG",
         "tags": [
-          "last-time-we-were-here",
+          "the-bloom",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1231 2.JPG"
       },
       {
-        "id": "last-time-we-were-here-02",
-        "src": "/portfolio/last-time-we-were-here/02-dscf1326.jpg",
-        "alt": "The Last Time We Were Here photograph 02",
-        "date": "May",
+        "id": "the-bloom-03",
+        "src": "/portfolio/the-bloom/03-dscf1306.jpg",
+        "alt": "The Bloom photograph 03",
+        "date": "April",
+        "location": "Boston",
+        "orientation": "landscape",
+        "note": "DSCF1306.RAF",
+        "tags": [
+          "the-bloom",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1306.RAF"
+      },
+      {
+        "id": "the-bloom-04",
+        "src": "/portfolio/the-bloom/04-dscf1317.jpg",
+        "alt": "The Bloom photograph 04",
+        "date": "April",
+        "location": "Boston",
+        "orientation": "landscape",
+        "note": "DSCF1317.RAF",
+        "tags": [
+          "the-bloom",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1317.RAF"
+      },
+      {
+        "id": "the-bloom-05",
+        "src": "/portfolio/the-bloom/05-dscf1326.jpg",
+        "alt": "The Bloom photograph 05",
+        "date": "April",
         "location": "Boston",
         "orientation": "landscape",
         "note": "DSCF1326.jpg",
         "tags": [
-          "last-time-we-were-here",
+          "the-bloom",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1326.jpg"
       },
       {
-        "id": "last-time-we-were-here-03",
-        "src": "/portfolio/last-time-we-were-here/03-dscf1365.jpg",
-        "alt": "The Last Time We Were Here photograph 03",
-        "date": "May",
-        "location": "Boston",
-        "orientation": "portrait",
-        "note": "DSCF1365.RAF",
-        "tags": [
-          "last-time-we-were-here",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1365.RAF"
-      },
-      {
-        "id": "last-time-we-were-here-04",
-        "src": "/portfolio/last-time-we-were-here/04-dscf1373.jpg",
-        "alt": "The Last Time We Were Here photograph 04",
-        "date": "May",
+        "id": "the-bloom-06",
+        "src": "/portfolio/the-bloom/06-dscf1373.jpg",
+        "alt": "The Bloom photograph 06",
+        "date": "April",
         "location": "Boston",
         "orientation": "landscape",
         "note": "DSCF1373.RAF",
         "tags": [
-          "last-time-we-were-here",
+          "the-bloom",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1373.RAF"
       },
       {
-        "id": "last-time-we-were-here-05",
-        "src": "/portfolio/last-time-we-were-here/05-dscf1378.jpg",
-        "alt": "The Last Time We Were Here photograph 05",
-        "date": "May",
-        "location": "Boston",
-        "orientation": "landscape",
-        "note": "DSCF1378.RAF",
-        "tags": [
-          "last-time-we-were-here",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1378.RAF"
-      },
-      {
-        "id": "last-time-we-were-here-06",
-        "src": "/portfolio/last-time-we-were-here/06-dscf1391.jpg",
-        "alt": "The Last Time We Were Here photograph 06",
-        "date": "May",
+        "id": "the-bloom-07",
+        "src": "/portfolio/the-bloom/07-dscf1391.jpg",
+        "alt": "The Bloom photograph 07",
+        "date": "April",
         "location": "Boston",
         "orientation": "landscape",
         "note": "DSCF1391.RAF",
         "tags": [
-          "last-time-we-were-here",
+          "the-bloom",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1391.RAF"
       },
       {
-        "id": "last-time-we-were-here-07",
-        "src": "/portfolio/last-time-we-were-here/07-dscf1466.jpg",
-        "alt": "The Last Time We Were Here photograph 07",
+        "id": "the-bloom-08",
+        "src": "/portfolio/the-bloom/08-dscf1466.jpg",
+        "alt": "The Bloom photograph 08",
         "date": "May",
         "location": "Boston",
         "orientation": "landscape",
         "note": "DSCF1466.RAF",
         "tags": [
-          "last-time-we-were-here",
+          "the-bloom",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1466.RAF"
       },
       {
-        "id": "last-time-we-were-here-08",
-        "src": "/portfolio/last-time-we-were-here/08-dscf1467-2.jpg",
-        "alt": "The Last Time We Were Here photograph 08",
+        "id": "the-bloom-09",
+        "src": "/portfolio/the-bloom/09-dscf1467-2.jpg",
+        "alt": "The Bloom photograph 09",
         "date": "May",
         "location": "Boston",
         "orientation": "landscape",
         "note": "DSCF1467 2.JPG",
         "tags": [
-          "last-time-we-were-here",
+          "the-bloom",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1467 2.JPG"
       },
       {
-        "id": "last-time-we-were-here-09",
-        "src": "/portfolio/last-time-we-were-here/09-dscf1467.jpg",
-        "alt": "The Last Time We Were Here photograph 09",
+        "id": "the-bloom-10",
+        "src": "/portfolio/the-bloom/10-dscf1476.jpg",
+        "alt": "The Bloom photograph 10",
         "date": "May",
         "location": "Boston",
         "orientation": "landscape",
-        "note": "DSCF1467.JPG",
-        "tags": [
-          "last-time-we-were-here",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1467.JPG"
-      },
-      {
-        "id": "last-time-we-were-here-10",
-        "src": "/portfolio/last-time-we-were-here/10-dscf1474.jpg",
-        "alt": "The Last Time We Were Here photograph 10",
-        "date": "May",
-        "location": "Boston",
-        "orientation": "landscape",
-        "note": "DSCF1474.JPG",
-        "tags": [
-          "last-time-we-were-here",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1474.JPG"
-      },
-      {
-        "id": "last-time-we-were-here-11",
-        "src": "/portfolio/last-time-we-were-here/11-dscf1476.jpg",
-        "alt": "The Last Time We Were Here photograph 11",
-        "date": "May",
-        "location": "Boston",
-        "orientation": "portrait",
         "note": "DSCF1476.JPG",
         "tags": [
-          "last-time-we-were-here",
+          "the-bloom",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1476.JPG"
       },
       {
-        "id": "last-time-we-were-here-12",
-        "src": "/portfolio/last-time-we-were-here/12-dscf1480.jpg",
-        "alt": "The Last Time We Were Here photograph 12",
+        "id": "the-bloom-11",
+        "src": "/portfolio/the-bloom/11-dscf1508.jpg",
+        "alt": "The Bloom photograph 11",
         "date": "May",
-        "location": "Washington, DC",
-        "orientation": "portrait",
-        "note": "DSCF1480.RAF",
-        "tags": [
-          "last-time-we-were-here",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1480.RAF"
-      },
-      {
-        "id": "last-time-we-were-here-13",
-        "src": "/portfolio/last-time-we-were-here/13-dscf1508.jpg",
-        "alt": "The Last Time We Were Here photograph 13",
-        "date": "May",
-        "location": "United States",
+        "location": "Boston",
         "orientation": "landscape",
         "note": "DSCF1508.RAF",
         "tags": [
-          "last-time-we-were-here",
+          "the-bloom",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1508.RAF"
       },
       {
-        "id": "last-time-we-were-here-14",
-        "src": "/portfolio/last-time-we-were-here/14-dscf1512.jpg",
-        "alt": "The Last Time We Were Here photograph 14",
+        "id": "the-bloom-12",
+        "src": "/portfolio/the-bloom/12-dscf1512.jpg",
+        "alt": "The Bloom photograph 12",
         "date": "May",
-        "location": "United States",
+        "location": "Boston",
         "orientation": "landscape",
         "note": "DSCF1512.RAF",
         "tags": [
-          "last-time-we-were-here",
+          "the-bloom",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1512.RAF"
       },
       {
-        "id": "last-time-we-were-here-15",
-        "src": "/portfolio/last-time-we-were-here/15-dscf1522.jpg",
-        "alt": "The Last Time We Were Here photograph 15",
+        "id": "the-bloom-13",
+        "src": "/portfolio/the-bloom/13-dscf1545.jpg",
+        "alt": "The Bloom photograph 13",
         "date": "May",
-        "location": "United States",
-        "orientation": "portrait",
-        "note": "DSCF1522.RAF",
-        "tags": [
-          "last-time-we-were-here",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1522.RAF"
-      },
-      {
-        "id": "last-time-we-were-here-16",
-        "src": "/portfolio/last-time-we-were-here/16-dscf1545.jpg",
-        "alt": "The Last Time We Were Here photograph 16",
-        "date": "May",
-        "location": "United States",
-        "orientation": "portrait",
+        "location": "Boston",
+        "orientation": "landscape",
         "note": "DSCF1545.RAF",
         "tags": [
-          "last-time-we-were-here",
+          "the-bloom",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1545.RAF"
       },
       {
-        "id": "last-time-we-were-here-17",
-        "src": "/portfolio/last-time-we-were-here/17-dscf1555.jpg",
-        "alt": "The Last Time We Were Here photograph 17",
+        "id": "the-bloom-14",
+        "src": "/portfolio/the-bloom/14-dscf1671.jpg",
+        "alt": "The Bloom photograph 14",
         "date": "May",
-        "location": "United States",
-        "orientation": "landscape",
-        "note": "DSCF1555.RAF",
-        "tags": [
-          "last-time-we-were-here",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1555.RAF"
-      },
-      {
-        "id": "last-time-we-were-here-18",
-        "src": "/portfolio/last-time-we-were-here/18-dscf1614.jpg",
-        "alt": "The Last Time We Were Here photograph 18",
-        "date": "May",
-        "location": "United States",
-        "orientation": "portrait",
-        "note": "DSCF1614.RAF",
-        "tags": [
-          "last-time-we-were-here",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1614.RAF"
-      },
-      {
-        "id": "last-time-we-were-here-19",
-        "src": "/portfolio/last-time-we-were-here/19-dscf1644.jpg",
-        "alt": "The Last Time We Were Here photograph 19",
-        "date": "May",
-        "location": "United States",
-        "orientation": "portrait",
-        "note": "DSCF1644.RAF",
-        "tags": [
-          "last-time-we-were-here",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1644.RAF"
-      },
-      {
-        "id": "last-time-we-were-here-20",
-        "src": "/portfolio/last-time-we-were-here/20-dscf1671.jpg",
-        "alt": "The Last Time We Were Here photograph 20",
-        "date": "May",
-        "location": "New York City",
+        "location": "Boston",
         "orientation": "landscape",
         "note": "DSCF1671.JPG",
         "tags": [
-          "last-time-we-were-here",
+          "the-bloom",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1671.JPG"
       },
       {
-        "id": "last-time-we-were-here-21",
-        "src": "/portfolio/last-time-we-were-here/21-dscf1679.jpg",
-        "alt": "The Last Time We Were Here photograph 21",
+        "id": "the-bloom-15",
+        "src": "/portfolio/the-bloom/15-dscf1808.jpg",
+        "alt": "The Bloom photograph 15",
         "date": "May",
-        "location": "New York City",
-        "orientation": "landscape",
-        "note": "DSCF1679.JPG",
-        "tags": [
-          "last-time-we-were-here",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1679.JPG"
-      },
-      {
-        "id": "last-time-we-were-here-22",
-        "src": "/portfolio/last-time-we-were-here/22-dscf1808.jpg",
-        "alt": "The Last Time We Were Here photograph 22",
-        "date": "May",
-        "location": "New York City",
+        "location": "Boston",
         "orientation": "landscape",
         "note": "DSCF1808.jpg",
         "tags": [
-          "last-time-we-were-here",
+          "the-bloom",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1808.jpg"
       },
       {
-        "id": "last-time-we-were-here-23",
-        "src": "/portfolio/last-time-we-were-here/23-dscf1834.jpg",
-        "alt": "The Last Time We Were Here photograph 23",
+        "id": "the-bloom-16",
+        "src": "/portfolio/the-bloom/16-dscf1846.jpg",
+        "alt": "The Bloom photograph 16",
         "date": "May",
-        "location": "New York City",
-        "orientation": "portrait",
-        "note": "DSCF1834.RAF",
-        "tags": [
-          "last-time-we-were-here",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1834.RAF"
-      },
-      {
-        "id": "last-time-we-were-here-24",
-        "src": "/portfolio/last-time-we-were-here/24-dscf1846.jpg",
-        "alt": "The Last Time We Were Here photograph 24",
-        "date": "May",
-        "location": "New York City",
-        "orientation": "portrait",
+        "location": "Boston",
+        "orientation": "landscape",
         "note": "DSCF1846.RAF",
         "tags": [
-          "last-time-we-were-here",
+          "the-bloom",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1846.RAF"
-      },
-      {
-        "id": "last-time-we-were-here-25",
-        "src": "/portfolio/last-time-we-were-here/25-dscf1884.jpg",
-        "alt": "The Last Time We Were Here photograph 25",
-        "date": "May",
-        "location": "New York City",
-        "orientation": "landscape",
-        "note": "DSCF1884.RAF",
-        "tags": [
-          "last-time-we-were-here",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1884.RAF"
       }
     ]
   },
   {
-    "slug": "summer-that-wouldnt-stay",
-    "title": "A Summer That Wouldn't Stay",
-    "period": "The Flowing Green / 04",
-    "description": "Japan in July: temple shade, green paths, hot streets, paper wishes, water, stone, and the feeling of a summer already passing.",
-    "cover": "/portfolio/summer-that-wouldnt-stay/01-dscf1966.jpg",
+    "slug": "the-summer",
+    "title": "The Summer",
+    "period": "The Flowing Green / 03",
+    "description": "July, green and bright, already slipping into memory.",
+    "cover": "/portfolio/the-summer/01-dscf0014-2.jpg",
     "photographs": [
       {
-        "id": "summer-that-wouldnt-stay-01",
-        "src": "/portfolio/summer-that-wouldnt-stay/01-dscf1966.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 01",
+        "id": "the-summer-01",
+        "src": "/portfolio/the-summer/01-dscf0014-2.jpg",
+        "alt": "The Summer photograph 01",
         "date": "July",
         "location": "Japan",
         "orientation": "landscape",
-        "note": "DSCF1966.JPG",
+        "note": "DSCF0014 2.jpeg",
         "tags": [
-          "summer-that-wouldnt-stay",
+          "the-summer",
           "suki-house",
           "the-flowing-green"
         ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1966.JPG"
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0014 2.jpeg"
       },
       {
-        "id": "summer-that-wouldnt-stay-02",
-        "src": "/portfolio/summer-that-wouldnt-stay/02-dscf1972.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 02",
+        "id": "the-summer-02",
+        "src": "/portfolio/the-summer/02-dscf1977.jpg",
+        "alt": "The Summer photograph 02",
         "date": "July",
         "location": "Japan",
-        "orientation": "portrait",
-        "note": "DSCF1972.RAF",
-        "tags": [
-          "summer-that-wouldnt-stay",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1972.RAF"
-      },
-      {
-        "id": "summer-that-wouldnt-stay-03",
-        "src": "/portfolio/summer-that-wouldnt-stay/03-dscf1973.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 03",
-        "date": "July",
-        "location": "Japan",
-        "orientation": "portrait",
-        "note": "DSCF1973.JPG",
-        "tags": [
-          "summer-that-wouldnt-stay",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1973.JPG"
-      },
-      {
-        "id": "summer-that-wouldnt-stay-04",
-        "src": "/portfolio/summer-that-wouldnt-stay/04-dscf1977.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 04",
-        "date": "July",
-        "location": "Japan",
-        "orientation": "portrait",
+        "orientation": "landscape",
         "note": "DSCF1977.RAF",
         "tags": [
-          "summer-that-wouldnt-stay",
+          "the-summer",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1977.RAF"
       },
       {
-        "id": "summer-that-wouldnt-stay-05",
-        "src": "/portfolio/summer-that-wouldnt-stay/05-dscf1978.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 05",
+        "id": "the-summer-03",
+        "src": "/portfolio/the-summer/03-dscf1978.jpg",
+        "alt": "The Summer photograph 03",
         "date": "July",
         "location": "Japan",
         "orientation": "landscape",
         "note": "DSCF1978.RAF",
         "tags": [
-          "summer-that-wouldnt-stay",
+          "the-summer",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1978.RAF"
       },
       {
-        "id": "summer-that-wouldnt-stay-06",
-        "src": "/portfolio/summer-that-wouldnt-stay/06-dscf1983.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 06",
+        "id": "the-summer-04",
+        "src": "/portfolio/the-summer/04-dscf1983.jpg",
+        "alt": "The Summer photograph 04",
         "date": "July",
         "location": "Japan",
-        "orientation": "portrait",
+        "orientation": "landscape",
         "note": "DSCF1983.RAF",
         "tags": [
-          "summer-that-wouldnt-stay",
+          "the-summer",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1983.RAF"
       },
       {
-        "id": "summer-that-wouldnt-stay-07",
-        "src": "/portfolio/summer-that-wouldnt-stay/07-dscf1984.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 07",
-        "date": "July",
-        "location": "Japan",
-        "orientation": "portrait",
-        "note": "DSCF1984.JPG",
-        "tags": [
-          "summer-that-wouldnt-stay",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1984.JPG"
-      },
-      {
-        "id": "summer-that-wouldnt-stay-08",
-        "src": "/portfolio/summer-that-wouldnt-stay/08-dscf1999.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 08",
-        "date": "July",
-        "location": "Japan",
-        "orientation": "portrait",
-        "note": "DSCF1999.JPG",
-        "tags": [
-          "summer-that-wouldnt-stay",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1999.JPG"
-      },
-      {
-        "id": "summer-that-wouldnt-stay-09",
-        "src": "/portfolio/summer-that-wouldnt-stay/09-dscf2015.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 09",
+        "id": "the-summer-05",
+        "src": "/portfolio/the-summer/05-dscf2015.jpg",
+        "alt": "The Summer photograph 05",
         "date": "July",
         "location": "Japan",
         "orientation": "landscape",
         "note": "DSCF2015.RAF",
         "tags": [
-          "summer-that-wouldnt-stay",
+          "the-summer",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF2015.RAF"
       },
       {
-        "id": "summer-that-wouldnt-stay-10",
-        "src": "/portfolio/summer-that-wouldnt-stay/10-dscf2016.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 10",
-        "date": "July",
-        "location": "Japan",
-        "orientation": "portrait",
-        "note": "DSCF2016.RAF",
-        "tags": [
-          "summer-that-wouldnt-stay",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF2016.RAF"
-      },
-      {
-        "id": "summer-that-wouldnt-stay-11",
-        "src": "/portfolio/summer-that-wouldnt-stay/11-dscf2032.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 11",
+        "id": "the-summer-06",
+        "src": "/portfolio/the-summer/06-dscf2032.jpg",
+        "alt": "The Summer photograph 06",
         "date": "July",
         "location": "Japan",
         "orientation": "portrait",
         "note": "DSCF2032.jpg",
         "tags": [
-          "summer-that-wouldnt-stay",
+          "the-summer",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF2032.jpg"
       },
       {
-        "id": "summer-that-wouldnt-stay-12",
-        "src": "/portfolio/summer-that-wouldnt-stay/12-dscf2037.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 12",
+        "id": "the-summer-07",
+        "src": "/portfolio/the-summer/07-dscf2037.jpg",
+        "alt": "The Summer photograph 07",
         "date": "July",
         "location": "Japan",
         "orientation": "landscape",
         "note": "DSCF2037.JPG",
         "tags": [
-          "summer-that-wouldnt-stay",
+          "the-summer",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF2037.JPG"
       },
       {
-        "id": "summer-that-wouldnt-stay-13",
-        "src": "/portfolio/summer-that-wouldnt-stay/13-dscf2043.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 13",
+        "id": "the-summer-08",
+        "src": "/portfolio/the-summer/08-dscf2043.jpg",
+        "alt": "The Summer photograph 08",
         "date": "July",
         "location": "Japan",
-        "orientation": "portrait",
+        "orientation": "landscape",
         "note": "DSCF2043.JPG",
         "tags": [
-          "summer-that-wouldnt-stay",
+          "the-summer",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF2043.JPG"
       },
       {
-        "id": "summer-that-wouldnt-stay-14",
-        "src": "/portfolio/summer-that-wouldnt-stay/14-dscf2069.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 14",
+        "id": "the-summer-09",
+        "src": "/portfolio/the-summer/09-dscf2087.jpg",
+        "alt": "The Summer photograph 09",
         "date": "July",
         "location": "Japan",
-        "orientation": "portrait",
-        "note": "DSCF2069.RAF",
-        "tags": [
-          "summer-that-wouldnt-stay",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF2069.RAF"
-      },
-      {
-        "id": "summer-that-wouldnt-stay-15",
-        "src": "/portfolio/summer-that-wouldnt-stay/15-dscf2087.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 15",
-        "date": "July",
-        "location": "Japan",
-        "orientation": "portrait",
+        "orientation": "landscape",
         "note": "DSCF2087.JPG",
         "tags": [
-          "summer-that-wouldnt-stay",
+          "the-summer",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF2087.JPG"
       },
       {
-        "id": "summer-that-wouldnt-stay-16",
-        "src": "/portfolio/summer-that-wouldnt-stay/16-dscf2111.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 16",
+        "id": "the-summer-10",
+        "src": "/portfolio/the-summer/10-dscf2111.jpg",
+        "alt": "The Summer photograph 10",
         "date": "July",
         "location": "Japan",
         "orientation": "landscape",
         "note": "DSCF2111.JPG",
         "tags": [
-          "summer-that-wouldnt-stay",
+          "the-summer",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF2111.JPG"
       },
       {
-        "id": "summer-that-wouldnt-stay-17",
-        "src": "/portfolio/summer-that-wouldnt-stay/17-dscf2115.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 17",
-        "date": "July",
-        "location": "Japan",
-        "orientation": "landscape",
-        "note": "DSCF2115.JPG",
-        "tags": [
-          "summer-that-wouldnt-stay",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF2115.JPG"
-      },
-      {
-        "id": "summer-that-wouldnt-stay-18",
-        "src": "/portfolio/summer-that-wouldnt-stay/18-dscf2128.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 18",
-        "date": "July",
-        "location": "Japan",
-        "orientation": "portrait",
-        "note": "DSCF2128.JPG",
-        "tags": [
-          "summer-that-wouldnt-stay",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF2128.JPG"
-      },
-      {
-        "id": "summer-that-wouldnt-stay-19",
-        "src": "/portfolio/summer-that-wouldnt-stay/19-dscf2130.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 19",
-        "date": "July",
-        "location": "Japan",
-        "orientation": "portrait",
-        "note": "DSCF2130.JPG",
-        "tags": [
-          "summer-that-wouldnt-stay",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF2130.JPG"
-      },
-      {
-        "id": "summer-that-wouldnt-stay-20",
-        "src": "/portfolio/summer-that-wouldnt-stay/20-dscf2146.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 20",
+        "id": "the-summer-11",
+        "src": "/portfolio/the-summer/11-dscf2146.jpg",
+        "alt": "The Summer photograph 11",
         "date": "July",
         "location": "Japan",
         "orientation": "landscape",
         "note": "DSCF2146.RAF",
         "tags": [
-          "summer-that-wouldnt-stay",
+          "the-summer",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF2146.RAF"
       },
       {
-        "id": "summer-that-wouldnt-stay-21",
-        "src": "/portfolio/summer-that-wouldnt-stay/21-dscf2162.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 21",
+        "id": "the-summer-12",
+        "src": "/portfolio/the-summer/12-dscf2163.jpg",
+        "alt": "The Summer photograph 12",
         "date": "July",
         "location": "Japan",
-        "orientation": "portrait",
-        "note": "DSCF2162.JPG",
+        "orientation": "landscape",
+        "note": "DSCF2163.JPG",
         "tags": [
-          "summer-that-wouldnt-stay",
+          "the-summer",
           "suki-house",
           "the-flowing-green"
         ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF2162.JPG"
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF2163.JPG"
       },
       {
-        "id": "summer-that-wouldnt-stay-22",
-        "src": "/portfolio/summer-that-wouldnt-stay/22-dscf2175.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 22",
+        "id": "the-summer-13",
+        "src": "/portfolio/the-summer/13-dscf2175.jpg",
+        "alt": "The Summer photograph 13",
         "date": "July",
         "location": "Japan",
-        "orientation": "portrait",
+        "orientation": "landscape",
         "note": "DSCF2175.JPG",
         "tags": [
-          "summer-that-wouldnt-stay",
+          "the-summer",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF2175.JPG"
       },
       {
-        "id": "summer-that-wouldnt-stay-23",
-        "src": "/portfolio/summer-that-wouldnt-stay/23-dscf2179.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 23",
+        "id": "the-summer-14",
+        "src": "/portfolio/the-summer/14-dscf2179.jpg",
+        "alt": "The Summer photograph 14",
         "date": "July",
         "location": "Japan",
         "orientation": "landscape",
         "note": "DSCF2179.RAF",
         "tags": [
-          "summer-that-wouldnt-stay",
+          "the-summer",
           "suki-house",
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF2179.RAF"
-      },
-      {
-        "id": "summer-that-wouldnt-stay-24",
-        "src": "/portfolio/summer-that-wouldnt-stay/24-dscf2189.jpg",
-        "alt": "A Summer That Wouldn't Stay photograph 24",
-        "date": "July",
-        "location": "Japan",
-        "orientation": "portrait",
-        "note": "DSCF2189.JPG",
-        "tags": [
-          "summer-that-wouldnt-stay",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF2189.JPG"
       }
     ]
   }
