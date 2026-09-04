@@ -4,23 +4,8 @@
     "title": "Island Edges and Weather",
     "period": "The Flowing Green / 01",
     "description": "Water, grass, humid light, small objects, and distant figures held by weather.",
-    "cover": "/portfolio/island-edges-weather/01-dscf0207.jpg",
+    "cover": "/portfolio/island-edges-weather/02-dscf0249.jpg",
     "photographs": [
-      {
-        "id": "island-edges-weather-01",
-        "src": "/portfolio/island-edges-weather/01-dscf0207.jpg",
-        "alt": "Island Edges and Weather photograph 01",
-        "date": "Page 01",
-        "location": "Island Edges and Weather",
-        "orientation": "landscape",
-        "note": "DSCF0207.RAF",
-        "tags": [
-          "island-edges-weather",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0207.RAF"
-      },
       {
         "id": "island-edges-weather-02",
         "src": "/portfolio/island-edges-weather/02-dscf0249.jpg",
@@ -683,6 +668,195 @@
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF2179.RAF"
+      }
+    ]
+  },
+  {
+    "slug": "private-notes-small-signs",
+    "title": "Private Notes and Small Signs",
+    "period": "The Flowing Green / 04",
+    "description": "Leaves, bottles, windows, flowers, statues, and paper wishes: small signs that make public places feel privately kept.",
+    "cover": "/portfolio/private-notes-small-signs/01-dscf0264.jpg",
+    "photographs": [
+      {
+        "id": "private-notes-small-signs-01",
+        "src": "/portfolio/private-notes-small-signs/01-dscf0264.jpg",
+        "alt": "Private Notes and Small Signs photograph 01",
+        "date": "Page 01",
+        "location": "Private Notes and Small Signs",
+        "orientation": "landscape",
+        "note": "DSCF0264.RAF",
+        "tags": [
+          "private-notes-small-signs",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0264.RAF"
+      },
+      {
+        "id": "private-notes-small-signs-02",
+        "src": "/portfolio/private-notes-small-signs/02-dscf0445.jpg",
+        "alt": "Private Notes and Small Signs photograph 02",
+        "date": "Page 02",
+        "location": "Private Notes and Small Signs",
+        "orientation": "landscape",
+        "note": "DSCF0445.RAF",
+        "tags": [
+          "private-notes-small-signs",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0445.RAF"
+      },
+      {
+        "id": "private-notes-small-signs-03",
+        "src": "/portfolio/private-notes-small-signs/03-dscf0651.jpg",
+        "alt": "Private Notes and Small Signs photograph 03",
+        "date": "Page 03",
+        "location": "Private Notes and Small Signs",
+        "orientation": "landscape",
+        "note": "DSCF0651.RAF",
+        "tags": [
+          "private-notes-small-signs",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0651.RAF"
+      },
+      {
+        "id": "private-notes-small-signs-04",
+        "src": "/portfolio/private-notes-small-signs/04-dscf0677.jpg",
+        "alt": "Private Notes and Small Signs photograph 04",
+        "date": "Page 04",
+        "location": "Private Notes and Small Signs",
+        "orientation": "portrait",
+        "note": "DSCF0677.RAF",
+        "tags": [
+          "private-notes-small-signs",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0677.RAF"
+      },
+      {
+        "id": "private-notes-small-signs-05",
+        "src": "/portfolio/private-notes-small-signs/05-dscf0773.jpg",
+        "alt": "Private Notes and Small Signs photograph 05",
+        "date": "Page 05",
+        "location": "Private Notes and Small Signs",
+        "orientation": "portrait",
+        "note": "DSCF0773.RAF",
+        "tags": [
+          "private-notes-small-signs",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0773.RAF"
+      },
+      {
+        "id": "private-notes-small-signs-06",
+        "src": "/portfolio/private-notes-small-signs/06-dscf0980.jpg",
+        "alt": "Private Notes and Small Signs photograph 06",
+        "date": "Page 06",
+        "location": "Private Notes and Small Signs",
+        "orientation": "landscape",
+        "note": "DSCF0980.RAF",
+        "tags": [
+          "private-notes-small-signs",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0980.RAF"
+      },
+      {
+        "id": "private-notes-small-signs-07",
+        "src": "/portfolio/private-notes-small-signs/07-dscf1041.jpg",
+        "alt": "Private Notes and Small Signs photograph 07",
+        "date": "Page 07",
+        "location": "Private Notes and Small Signs",
+        "orientation": "landscape",
+        "note": "DSCF1041.RAF",
+        "tags": [
+          "private-notes-small-signs",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1041.RAF"
+      },
+      {
+        "id": "private-notes-small-signs-08",
+        "src": "/portfolio/private-notes-small-signs/08-dscf1069.jpg",
+        "alt": "Private Notes and Small Signs photograph 08",
+        "date": "Page 08",
+        "location": "Private Notes and Small Signs",
+        "orientation": "landscape",
+        "note": "DSCF1069.RAF",
+        "tags": [
+          "private-notes-small-signs",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1069.RAF"
+      },
+      {
+        "id": "private-notes-small-signs-09",
+        "src": "/portfolio/private-notes-small-signs/09-dscf1231.jpg",
+        "alt": "Private Notes and Small Signs photograph 09",
+        "date": "Page 09",
+        "location": "Private Notes and Small Signs",
+        "orientation": "portrait",
+        "note": "DSCF1231.JPG",
+        "tags": [
+          "private-notes-small-signs",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1231.JPG"
+      },
+      {
+        "id": "private-notes-small-signs-10",
+        "src": "/portfolio/private-notes-small-signs/10-dscf1555.jpg",
+        "alt": "Private Notes and Small Signs photograph 10",
+        "date": "Page 10",
+        "location": "Private Notes and Small Signs",
+        "orientation": "landscape",
+        "note": "DSCF1555.RAF",
+        "tags": [
+          "private-notes-small-signs",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1555.RAF"
+      },
+      {
+        "id": "private-notes-small-signs-11",
+        "src": "/portfolio/private-notes-small-signs/11-dscf1644.jpg",
+        "alt": "Private Notes and Small Signs photograph 11",
+        "date": "Page 11",
+        "location": "Private Notes and Small Signs",
+        "orientation": "portrait",
+        "note": "DSCF1644.RAF",
+        "tags": [
+          "private-notes-small-signs",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1644.RAF"
+      },
+      {
+        "id": "private-notes-small-signs-12",
+        "src": "/portfolio/private-notes-small-signs/12-dscf1983.jpg",
+        "alt": "Private Notes and Small Signs photograph 12",
+        "date": "Page 12",
+        "location": "Private Notes and Small Signs",
+        "orientation": "portrait",
+        "note": "DSCF1983.RAF",
+        "tags": [
+          "private-notes-small-signs",
+          "suki-house",
+          "the-flowing-green"
+        ],
+        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1983.RAF"
       }
     ]
   }

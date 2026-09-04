@@ -58,12 +58,12 @@ export const overviewImages: OverviewImage[] = events.flatMap((event) =>
 
 export const aboutContent = {
   portrait: {
-    src: events[0]?.cover ?? "/portfolio/island-edges-weather/01-dscf0207.jpg",
+    src: events[0]?.cover ?? "/portfolio/island-edges-weather/02-dscf0249.jpg",
     alt: "The Flowing Green cover photograph",
   },
   paragraphs: [
-    "The Flowing Green is a travel zine built from 44 selected photographs: water, gardens, campus ceremony, public memory, temple paths, and summer streets.",
-    "The sequence keeps people at a distance and lets place carry the emotional weight: rail lines, plaques, humid trees, museum shadows, and small objects handled like evidence.",
+    "The Flowing Green is a travel zine built from 55 selected photographs: water, gardens, campus ceremony, public memory, temple paths, summer streets, and small private signs.",
+    "The sequence keeps people at a distance and lets place carry the emotional weight: rail lines, plaques, humid trees, museum shadows, paper wishes, and small objects handled like evidence.",
     "This online version is prepared for a first public pass, with room for later color grading, retouching, and final caption work.",
   ],
 };
