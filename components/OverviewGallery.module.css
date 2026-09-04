@@ -6,25 +6,47 @@
 }
 
 .start {
-  display: grid;
-  place-items: center;
-  min-height: min(64vh, 620px);
-  width: 100%;
+  position: fixed;
+  top: 28px;
+  left: 28px;
+  z-index: 10;
 }
 
 .startButton {
+  display: block;
   padding: 0;
   color: var(--accent);
   font-family: "Courier New", monospace;
-  font-size: clamp(1.8rem, 5vw, 4.5rem);
+  font-size: clamp(1rem, 2.2vw, 1.35rem);
   line-height: 1;
   text-transform: lowercase;
+}
+
+.startButton span {
+  display: inline-block;
+  width: 0;
+  overflow: hidden;
+  border-right: 1px solid currentColor;
+  white-space: nowrap;
+  animation: typeLine 1.7s steps(14, end) forwards, caret 0.8s step-end infinite;
 }
 
 .startButton:hover,
 .startButton:focus-visible {
   color: var(--ink);
   outline: none;
+}
+
+@keyframes typeLine {
+  to {
+    width: 14ch;
+  }
+}
+
+@keyframes caret {
+  50% {
+    border-color: transparent;
+  }
 }
 
 .photoButton {

@@ -97,7 +97,7 @@ export function OverviewGallery({ images }: OverviewGalleryProps) {
     return (
       <section className={styles.start} aria-label="Start">
         <button className={styles.startButton} type="button" onClick={() => setHasStarted(true)}>
-          hello suki
+          <span>&gt;&gt;&gt; hello suki</span>
         </button>
       </section>
     );
