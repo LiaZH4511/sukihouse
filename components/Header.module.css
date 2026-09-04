@@ -103,7 +103,9 @@
   .header {
     position: sticky;
     top: 0;
+    align-self: start;
     display: block;
+    height: 100vh;
     min-height: 100vh;
     padding: 42px 12px 48px clamp(20px, 2.8vw, 34px);
     border-right: 1px solid var(--soft-line);
