@@ -1,24 +1,46 @@
 .gallery {
   display: grid;
   place-items: start center;
-  width: min(760px, 100%);
+  width: min(1180px, 100%);
   margin: 0 auto;
+}
+
+.start {
+  display: grid;
+  place-items: center;
+  min-height: min(64vh, 620px);
+  width: 100%;
+}
+
+.startButton {
+  padding: 0;
+  color: var(--accent);
+  font-family: "Courier New", monospace;
+  font-size: clamp(1.8rem, 5vw, 4.5rem);
+  line-height: 1;
+  text-transform: lowercase;
+}
+
+.startButton:hover,
+.startButton:focus-visible {
+  color: var(--ink);
+  outline: none;
 }
 
 .photoButton {
   display: block;
-  margin-top: 2cm;
+  margin-top: 6vh;
   padding: 0;
   text-align: left;
   perspective: 1200px;
 }
 
 .portrait {
-  width: min(34vw, 390px);
+  width: min(52vh, 640px);
 }
 
 .landscape {
-  width: min(46vw, 520px);
+  width: min(66vw, 1080px);
 }
 
 .card {

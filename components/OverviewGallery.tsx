@@ -50,6 +50,7 @@ function readSessionFrames(images: OverviewImage[]) {
 }
 
 export function OverviewGallery({ images }: OverviewGalleryProps) {
+  const [hasStarted, setHasStarted] = useState(false);
   const [selected, setSelected] = useState<OverviewImage | null>(null);
   const [displayed, setDisplayed] = useState<OverviewImage | null>(null);
   const [isIntroRunning, setIsIntroRunning] = useState(false);
@@ -57,6 +58,8 @@ export function OverviewGallery({ images }: OverviewGalleryProps) {
   const placeholder = useMemo(() => images[0], [images]);
 
   useEffect(() => {
+    if (!hasStarted) return;
+
     const frames = readSessionFrames(images);
     const finalImage = frames[Math.floor(Math.random() * frames.length)] ?? readSessionImage(images);
     setSelected(finalImage);
@@ -88,7 +91,17 @@ export function OverviewGallery({ images }: OverviewGalleryProps) {
     return () => {
       if (timer) window.clearTimeout(timer);
     };
-  }, [images]);
+  }, [hasStarted, images]);
+
+  if (!hasStarted) {
+    return (
+      <section className={styles.start} aria-label="Start">
+        <button className={styles.startButton} type="button" onClick={() => setHasStarted(true)}>
+          hello suki
+        </button>
+      </section>
+    );
+  }
 
   const visibleImage = displayed ?? selected ?? placeholder;
 
