@@ -58,11 +58,11 @@ export const overviewImages: OverviewImage[] = events.flatMap((event) =>
 
 export const aboutContent = {
   portrait: {
-    src: events[0]?.cover ?? "/portfolio/island-edges-weather/02-dscf0249.jpg",
+    src: events[0]?.cover ?? "/portfolio/the-rise/01-dscf0223.jpg",
     alt: "sukihouse cover photograph",
   },
   paragraphs: [
-    "sukihouse is a travel zine built from 53 selected photographs across three movements: The Rise, The Bloom, and The Summer.",
+    "sukihouse is a travel zine built from 50 selected photographs across three movements: The Rise, The Bloom, and The Summer.",
     "The sequence moves from island weather and early spring to graduation light, public memory, temple paths, summer streets, and small objects handled like evidence.",
     "This online version is prepared for a first public pass, with room for later color grading, retouching, and final caption work.",
   ],

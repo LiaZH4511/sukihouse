@@ -22,21 +22,6 @@
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0223.RAF"
       },
       {
-        "id": "the-rise-02",
-        "src": "/portfolio/the-rise/02-dscf0249.jpg",
-        "alt": "The Rise photograph 02",
-        "date": "March",
-        "location": "Hawaii",
-        "orientation": "landscape",
-        "note": "DSCF0249.RAF",
-        "tags": [
-          "the-rise",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0249.RAF"
-      },
-      {
         "id": "the-rise-03",
         "src": "/portfolio/the-rise/03-dscf0253.jpg",
         "alt": "The Rise photograph 03",
@@ -80,21 +65,6 @@
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0267.RAF"
-      },
-      {
-        "id": "the-rise-06",
-        "src": "/portfolio/the-rise/06-dscf0272.jpg",
-        "alt": "The Rise photograph 06",
-        "date": "March",
-        "location": "Hawaii",
-        "orientation": "portrait",
-        "note": "DSCF0272.jpg",
-        "tags": [
-          "the-rise",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF0272.jpg"
       },
       {
         "id": "the-rise-07",
@@ -434,21 +404,6 @@
           "the-flowing-green"
         ],
         "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1326.jpg"
-      },
-      {
-        "id": "the-bloom-06",
-        "src": "/portfolio/the-bloom/06-dscf1373.jpg",
-        "alt": "The Bloom photograph 06",
-        "date": "April",
-        "location": "Boston",
-        "orientation": "landscape",
-        "note": "DSCF1373.RAF",
-        "tags": [
-          "the-bloom",
-          "suki-house",
-          "the-flowing-green"
-        ],
-        "originalFile": "/Users/liazhang/Desktop/sukihousejpg./DSCF1373.RAF"
       },
       {
         "id": "the-bloom-07",
