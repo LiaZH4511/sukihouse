@@ -48,8 +48,7 @@
   left: 3cm;
   width: min(100%, 320px);
   justify-self: start;
-  aspect-ratio: 4 / 5;
-  object-fit: cover;
+  height: auto;
   background: var(--wash);
 }
 

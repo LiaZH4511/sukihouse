@@ -34,8 +34,8 @@ type PortfolioRecord = Omit<Event, "photographs"> & {
 };
 
 export const siteInfo = {
-  name: "The Flowing Green",
-  instagramUrl: "https://www.instagram.com/",
+  name: "sukihouse",
+  instagramUrl: "https://www.instagram.com/ikus_nuo.jpeg/",
 };
 
 export const events: Event[] = (selectedPortfolio as PortfolioRecord[]).map((event) => ({
@@ -59,22 +59,22 @@ export const overviewImages: OverviewImage[] = events.flatMap((event) =>
 export const aboutContent = {
   portrait: {
     src: events[0]?.cover ?? "/portfolio/island-edges-weather/02-dscf0249.jpg",
-    alt: "The Flowing Green cover photograph",
+    alt: "sukihouse cover photograph",
   },
   paragraphs: [
-    "The Flowing Green is a travel zine built from 53 selected photographs across three movements: The Rise, The Bloom, and The Summer.",
+    "sukihouse is a travel zine built from 53 selected photographs across three movements: The Rise, The Bloom, and The Summer.",
     "The sequence moves from island weather and early spring to graduation light, public memory, temple paths, summer streets, and small objects handled like evidence.",
     "This online version is prepared for a first public pass, with room for later color grading, retouching, and final caption work.",
   ],
 };
 
 export const contactInfo = {
-  name: "The Flowing Green",
-  email: "studio@example.com",
-  location: "Hawaii / Seoul / Boston / Japan",
+  name: "sukihouse",
+  email: "liaynzhang@gmail.com",
+  location: "Philadelphia",
   availability: "A working web zine prepared for continued post-production.",
   image: {
-    src: "/portfolio/the-summer/10-dscf2111.jpg",
-    alt: "Summer light and small public notes",
+    src: "/portfolio/contact/suki-contact.png",
+    alt: "Portrait of Suki against a blue wall",
   },
 };

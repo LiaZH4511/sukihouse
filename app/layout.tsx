@@ -3,7 +3,7 @@ import "./globals.css";
 import { Header } from "@/components/Header";
 
 export const metadata: Metadata = {
-  title: "The Flowing Green",
+  title: "sukihouse",
   description: "A black-ground travel zine in three movements: The Rise, The Bloom, and The Summer.",
 };
 

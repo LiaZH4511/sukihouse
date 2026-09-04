@@ -15,7 +15,7 @@ export async function generateMetadata({ params }: ProjectPageProps) {
   const { slug } = await params;
   const event = events.find((item) => item.slug === slug);
   return {
-    title: event ? `${event.title} | The Flowing Green` : "Work | The Flowing Green",
+    title: event ? `${event.title} | sukihouse` : "Work | sukihouse",
     description: event?.description,
   };
 }
@@ -31,7 +31,7 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
   return (
     <main className={styles.page}>
       <section className={styles.intro}>
-        <p className={styles.kicker}>THE FLOWING GREEN</p>
+        <p className={styles.kicker}>SUKIHOUSE</p>
         <h1>{event.title}</h1>
         {event.period ? <p>{event.period}</p> : null}
         {event.description ? <p className={styles.description}>{event.description}</p> : null}
