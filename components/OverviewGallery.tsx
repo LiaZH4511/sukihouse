@@ -6,6 +6,7 @@ import styles from "./OverviewGallery.module.css";
 
 const SESSION_KEY = "overview-image";
 const SESSION_FRAMES_KEY = "overview-image-frames";
+const ENTRY_KEY = "sukihouse-entry-seen";
 const INTRO_FRAME_COUNT = 10;
 const INTRO_FRAME_DELAYS = [34, 38, 43, 50, 60, 74, 92, 114, 142, 176, 218, 268, 326, 392, 466, 540];
 
@@ -50,12 +51,17 @@ function readSessionFrames(images: OverviewImage[]) {
 }
 
 export function OverviewGallery({ images }: OverviewGalleryProps) {
-  const [hasStarted, setHasStarted] = useState(false);
+  const [hasStarted, setHasStarted] = useState<boolean | null>(null);
+  const [shouldRunIntro, setShouldRunIntro] = useState(false);
   const [selected, setSelected] = useState<OverviewImage | null>(null);
   const [displayed, setDisplayed] = useState<OverviewImage | null>(null);
   const [isIntroRunning, setIsIntroRunning] = useState(false);
   const [isFlipped, setIsFlipped] = useState(false);
   const placeholder = useMemo(() => images[0], [images]);
+
+  useEffect(() => {
+    setHasStarted(window.localStorage.getItem(ENTRY_KEY) === "true");
+  }, []);
 
   useEffect(() => {
     if (!hasStarted) return;
@@ -66,7 +72,7 @@ export function OverviewGallery({ images }: OverviewGalleryProps) {
     setDisplayed(finalImage);
     setIsFlipped(false);
 
-    if (!finalImage || window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    if (!shouldRunIntro || !finalImage || window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
 
     let frameIndex = 0;
     let timer: number | undefined;
@@ -91,12 +97,22 @@ export function OverviewGallery({ images }: OverviewGalleryProps) {
     return () => {
       if (timer) window.clearTimeout(timer);
     };
-  }, [hasStarted, images]);
+  }, [hasStarted, images, shouldRunIntro]);
+
+  if (hasStarted === null) return null;
 
   if (!hasStarted) {
     return (
       <section className={styles.start} aria-label="Start">
-        <button className={styles.startButton} type="button" onClick={() => setHasStarted(true)}>
+        <button
+          className={styles.startButton}
+          type="button"
+          onClick={() => {
+            window.localStorage.setItem(ENTRY_KEY, "true");
+            setShouldRunIntro(true);
+            setHasStarted(true);
+          }}
+        >
           <span>hello suki</span>
         </button>
       </section>
