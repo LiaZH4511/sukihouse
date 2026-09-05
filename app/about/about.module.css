@@ -10,7 +10,7 @@
 
 .portrait {
   position: relative;
-  left: 2cm;
+  left: 5cm;
   top: 1cm;
   width: 100%;
   justify-self: end;
@@ -21,6 +21,8 @@
 }
 
 .copy {
+  position: relative;
+  left: 3cm;
   display: grid;
   gap: 20px;
   padding: clamp(28px, 5vh, 58px) 0 0 calc(clamp(36px, 4vw, 58px) + 1cm);
@@ -57,5 +59,9 @@
     width: min(76vw, 390px);
     justify-self: start;
     margin-top: 0;
+  }
+
+  .copy {
+    left: 0;
   }
 }
