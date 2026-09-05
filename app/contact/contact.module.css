@@ -10,7 +10,7 @@
 
 .copy {
   position: relative;
-  left: 2.5cm;
+  left: 5.5cm;
   display: grid;
   gap: 14px;
   padding-top: clamp(4px, 5vh, 48px);
@@ -45,7 +45,7 @@
 
 .image {
   position: relative;
-  left: 3cm;
+  left: 6cm;
   width: min(100%, 320px);
   justify-self: start;
   height: auto;
