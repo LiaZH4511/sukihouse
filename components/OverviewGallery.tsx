@@ -60,7 +60,13 @@ export function OverviewGallery({ images }: OverviewGalleryProps) {
   const placeholder = useMemo(() => images[0], [images]);
 
   useEffect(() => {
-    setHasStarted(window.localStorage.getItem(ENTRY_KEY) === "true");
+    const hasEntered =
+      window.localStorage.getItem(ENTRY_KEY) === "true" ||
+      window.sessionStorage.getItem(SESSION_KEY) !== null ||
+      window.sessionStorage.getItem(SESSION_FRAMES_KEY) !== null;
+
+    if (hasEntered) window.localStorage.setItem(ENTRY_KEY, "true");
+    setHasStarted(hasEntered);
   }, []);
 
   useEffect(() => {
