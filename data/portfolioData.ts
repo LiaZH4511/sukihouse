@@ -69,7 +69,7 @@ export const aboutContent = {
 };
 
 export const contactInfo = {
-  name: "sukihouse",
+  name: "Yuhan Zhang",
   email: "liaynzhang@gmail.com",
   location: "Philadelphia",
   availability: "A working web zine prepared for continued post-production.",
