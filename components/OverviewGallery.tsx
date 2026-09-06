@@ -6,7 +6,8 @@ import styles from "./OverviewGallery.module.css";
 
 const SESSION_KEY = "overview-image";
 const SESSION_FRAMES_KEY = "overview-image-frames";
-const ENTRY_KEY = "sukihouse-entry-seen";
+const ENTRY_KEY = "sukihouse-entry-seen-this-session";
+const LEGACY_ENTRY_KEY = "sukihouse-entry-seen";
 const INTRO_FRAME_COUNT = 10;
 const INTRO_FRAME_DELAYS = [34, 38, 43, 50, 60, 74, 92, 114, 142, 176, 218, 268, 326, 392, 466, 540];
 
@@ -60,13 +61,8 @@ export function OverviewGallery({ images }: OverviewGalleryProps) {
   const placeholder = useMemo(() => images[0], [images]);
 
   useEffect(() => {
-    const hasEntered =
-      window.localStorage.getItem(ENTRY_KEY) === "true" ||
-      window.sessionStorage.getItem(SESSION_KEY) !== null ||
-      window.sessionStorage.getItem(SESSION_FRAMES_KEY) !== null;
-
-    if (hasEntered) window.localStorage.setItem(ENTRY_KEY, "true");
-    setHasStarted(hasEntered);
+    window.localStorage.removeItem(LEGACY_ENTRY_KEY);
+    setHasStarted(window.sessionStorage.getItem(ENTRY_KEY) === "true");
   }, []);
 
   useEffect(() => {
@@ -114,7 +110,7 @@ export function OverviewGallery({ images }: OverviewGalleryProps) {
           className={styles.startButton}
           type="button"
           onClick={() => {
-            window.localStorage.setItem(ENTRY_KEY, "true");
+            window.sessionStorage.setItem(ENTRY_KEY, "true");
             setShouldRunIntro(true);
             setHasStarted(true);
           }}
