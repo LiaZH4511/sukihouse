@@ -29,11 +29,6 @@ export function PhotoWall({ photographs }: PhotoWallProps) {
           <figure className={`${styles.figure} ${styles[`figure${(index % 8) + 1}`]}`} key={photo.id}>
             <button className={styles.photoFrame} type="button" onClick={() => setActivePhoto(photo)}>
               <img src={photo.src} alt={photo.alt} />
-              <span className={styles.meta}>
-                <span>{photo.date}</span>
-                <span>{photo.location}</span>
-                {photo.note ? <span>{photo.note}</span> : null}
-              </span>
             </button>
           </figure>
         ))}
@@ -45,7 +40,6 @@ export function PhotoWall({ photographs }: PhotoWallProps) {
           <figure className={styles.lightboxFigure}>
             <img src={activePhoto.src} alt={activePhoto.alt} />
             <figcaption>
-              <span>{activePhoto.note}</span>
               <button type="button" onClick={() => setActivePhoto(null)}>
                 Close
               </button>
